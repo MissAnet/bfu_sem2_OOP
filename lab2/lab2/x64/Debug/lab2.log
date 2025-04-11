@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Users\Anneta\source\repos\lab2\lab2\lab2.cpp(111,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Anneta\source\repos\lab2\lab2\lab2.cpp(111,30): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  lab2.vcxproj -> C:\Users\Anneta\source\repos\lab2\x64\Debug\lab2.exe
